@@ -1,7 +1,3 @@
-echo "# seguroconia" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/aibussinessolutions/seguroconia.git
-git push -u origin main
+# seguroconia_v1
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/aibussinessolutions/seguroconia_v1)
